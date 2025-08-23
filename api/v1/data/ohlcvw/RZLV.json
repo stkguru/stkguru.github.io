@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2022,08,22,00,00,00,000000",
-    "ticker": "RZLV",
-    "open": 9.9200000763,
-    "high": 9.9200000763,
-    "low": 9.9099998474,
-    "close": 9.9099998474,
-    "volume": 400.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2022,08,23,00,00,00,000000",
-    "ticker": "RZLV",
-    "open": 9.9099998474,
-    "high": 9.9099998474,
-    "low": 9.9099998474,
-    "close": 9.9099998474,
-    "volume": 0.0,
-    "wedge_status": "drop"
-  },
-  {
     "trade_date": "2022,08,24,00,00,00,000000",
     "ticker": "RZLV",
     "open": 9.9099998474,
@@ -7507,6 +7487,36 @@
     "low": 2.9400000572,
     "close": 3.0,
     "volume": 20192403.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "RZLV",
+    "open": 3.0,
+    "high": 3.0799999237,
+    "low": 2.8499999046,
+    "close": 3.0299999714,
+    "volume": 11935319.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "RZLV",
+    "open": 3.0,
+    "high": 3.0799999237,
+    "low": 2.9500000477,
+    "close": 3.0,
+    "volume": 5071859.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "RZLV",
+    "open": 2.9900000095,
+    "high": 3.1300001144,
+    "low": 2.9000000954,
+    "close": 3.0599999428,
+    "volume": 8332139.0,
     "wedge_status": "none"
   }
 ]

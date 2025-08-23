@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2022,08,22,00,00,00,000000",
-    "ticker": "SMID",
-    "open": 20.0,
-    "high": 20.5,
-    "low": 19.6200008392,
-    "close": 20.2999992371,
-    "volume": 8100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2022,08,23,00,00,00,000000",
-    "ticker": "SMID",
-    "open": 20.2999992371,
-    "high": 21.0,
-    "low": 20.2999992371,
-    "close": 21.0,
-    "volume": 9800.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2022,08,24,00,00,00,000000",
     "ticker": "SMID",
     "open": 21.0,
@@ -7507,6 +7487,36 @@
     "low": 40.8899993896,
     "close": 42.0,
     "volume": 14013.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "SMID",
+    "open": 39.4401016235,
+    "high": 40.7265014648,
+    "low": 37.9599990845,
+    "close": 39.5999984741,
+    "volume": 23369.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "SMID",
+    "open": 39.8349990845,
+    "high": 40.0,
+    "low": 39.2200012207,
+    "close": 39.2200012207,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "SMID",
+    "open": 39.8349990845,
+    "high": 43.617401123,
+    "low": 40.8409004211,
+    "close": 41.1399993896,
+    "volume": 35350.0,
     "wedge_status": "none"
   }
 ]

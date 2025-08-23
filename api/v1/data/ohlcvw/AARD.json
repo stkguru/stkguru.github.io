@@ -848,5 +848,35 @@
     "close": 10.1700000763,
     "volume": 39544.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 10.0,
+    "high": 10.1300001144,
+    "low": 9.4280004501,
+    "close": 9.6700000763,
+    "volume": 68242.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 9.6700000763,
+    "high": 10.0,
+    "low": 9.5,
+    "close": 9.7299995422,
+    "volume": 45796.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 9.75,
+    "high": 9.8717002869,
+    "low": 9.3699998856,
+    "close": 9.7700004578,
+    "volume": 76823.0,
+    "wedge_status": "none"
   }
 ]

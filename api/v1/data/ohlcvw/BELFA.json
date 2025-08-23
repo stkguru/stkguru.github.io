@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2022,08,22,00,00,00,000000",
-    "ticker": "BELFA",
-    "open": 29.6851900505,
-    "high": 29.6851900505,
-    "low": 29.1519241333,
-    "close": 29.1519241333,
-    "volume": 600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2022,08,23,00,00,00,000000",
-    "ticker": "BELFA",
-    "open": 29.4679366611,
-    "high": 30.5739707569,
-    "low": 29.4679366611,
-    "close": 30.3073387146,
-    "volume": 1200.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2022,08,24,00,00,00,000000",
     "ticker": "BELFA",
     "open": 29.5765652194,
@@ -7508,5 +7488,35 @@
     "close": 107.9400024414,
     "volume": 8075.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "BELFA",
+    "open": 108.0,
+    "high": 108.0599975586,
+    "low": 108.0,
+    "close": 108.0599975586,
+    "volume": 2972.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "BELFA",
+    "open": 108.0299987793,
+    "high": 109.6949996948,
+    "low": 108.0299987793,
+    "close": 109.0999984741,
+    "volume": 2360.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "BELFA",
+    "open": 111.0,
+    "high": 115.0,
+    "low": 111.0,
+    "close": 114.0199966431,
+    "volume": 13450.0,
+    "wedge_status": "none"
   }
 ]

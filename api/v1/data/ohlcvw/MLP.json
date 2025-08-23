@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2022,08,22,00,00,00,000000",
-    "ticker": "MLP",
-    "open": 9.6499996185,
-    "high": 10.0,
-    "low": 9.6499996185,
-    "close": 10.0,
-    "volume": 5800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2022,08,23,00,00,00,000000",
-    "ticker": "MLP",
-    "open": 9.7600002289,
-    "high": 9.8699998856,
-    "low": 9.7600002289,
-    "close": 9.8699998856,
-    "volume": 500.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2022,08,24,00,00,00,000000",
     "ticker": "MLP",
     "open": 9.8000001907,
@@ -7507,6 +7487,36 @@
     "low": 16.25,
     "close": 16.3999996185,
     "volume": 28265.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "MLP",
+    "open": 16.3999996185,
+    "high": 16.375,
+    "low": 15.75,
+    "close": 16.0,
+    "volume": 38263.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "MLP",
+    "open": 16.0499992371,
+    "high": 16.2000007629,
+    "low": 15.6499996185,
+    "close": 15.8800001144,
+    "volume": 17769.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "MLP",
+    "open": 16.0900001526,
+    "high": 17.2099990845,
+    "low": 16.5,
+    "close": 17.1100006104,
+    "volume": 51354.0,
     "wedge_status": "none"
   }
 ]

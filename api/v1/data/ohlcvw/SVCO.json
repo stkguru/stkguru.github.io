@@ -2758,5 +2758,35 @@
     "close": 4.5300002098,
     "volume": 63949.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "SVCO",
+    "open": 4.5500001907,
+    "high": 4.7828001976,
+    "low": 4.4299998283,
+    "close": 4.4400000572,
+    "volume": 87587.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "SVCO",
+    "open": 4.4299998283,
+    "high": 4.6300001144,
+    "low": 4.4151000977,
+    "close": 4.5399999619,
+    "volume": 120506.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "SVCO",
+    "open": 4.5,
+    "high": 5.3600001335,
+    "low": 4.4600000381,
+    "close": 5.0,
+    "volume": 435688.0,
+    "wedge_status": "none"
   }
 ]

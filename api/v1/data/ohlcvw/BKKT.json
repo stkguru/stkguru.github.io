@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2022,08,22,00,00,00,000000",
-    "ticker": "BKKT",
-    "open": 64.75,
-    "high": 66.25,
-    "low": 63.0,
-    "close": 63.25,
-    "volume": 62208.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2022,08,23,00,00,00,000000",
-    "ticker": "BKKT",
-    "open": 64.25,
-    "high": 67.75,
-    "low": 64.25,
-    "close": 65.0,
-    "volume": 54276.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2022,08,24,00,00,00,000000",
     "ticker": "BKKT",
     "open": 65.5,
@@ -7507,6 +7487,36 @@
     "low": 8.1999998093,
     "close": 8.5100002289,
     "volume": 1425299.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "BKKT",
+    "open": 8.6899995804,
+    "high": 8.7748003006,
+    "low": 8.1999998093,
+    "close": 8.2899999619,
+    "volume": 809211.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "BKKT",
+    "open": 8.0399999619,
+    "high": 8.4099998474,
+    "low": 7.8600001335,
+    "close": 7.9499998093,
+    "volume": 1397569.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "BKKT",
+    "open": 7.9499998093,
+    "high": 8.8900003433,
+    "low": 7.9625000954,
+    "close": 8.8599996567,
+    "volume": 1396361.0,
     "wedge_status": "none"
   }
 ]

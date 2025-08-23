@@ -7198,5 +7198,35 @@
     "close": 36.4350013733,
     "volume": 62322.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "FSUN",
+    "open": 36.6300010681,
+    "high": 36.7799987793,
+    "low": 36.3100013733,
+    "close": 36.5600013733,
+    "volume": 72462.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "FSUN",
+    "open": 36.25,
+    "high": 36.6199989319,
+    "low": 36.1800003052,
+    "close": 36.5099983215,
+    "volume": 44278.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "FSUN",
+    "open": 36.5499992371,
+    "high": 37.9399986267,
+    "low": 36.5499992371,
+    "close": 37.5,
+    "volume": 155146.0,
+    "wedge_status": "none"
   }
 ]
