@@ -7030,6 +7030,16 @@
     "wedge_status": "none"
   },
   {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "SHBI",
+    "open": 23.25,
+    "high": 23.459999084472656,
+    "low": 23.25,
+    "close": 23.299999237060547,
+    "volume": 139417.0,
+    "wedge_status": "none"
+  },
+  {
     "trade_date": "2026,09,04,00,00,00,000000",
     "ticker": "SHBI",
     "open": 23.1399993896,
@@ -7497,6 +7507,16 @@
     "low": 22.6499996185,
     "close": 22.8500003815,
     "volume": 151176.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "SHBI",
+    "open": 23.0,
+    "high": 23.0,
+    "low": 22.6700000763,
+    "close": 22.8199996948,
+    "volume": 93306.0,
     "wedge_status": "none"
   }
 ]
